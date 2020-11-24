@@ -1,2 +1,3 @@
 Edited from account B 
 Added from account A
+Added through terminal in the clone repo
